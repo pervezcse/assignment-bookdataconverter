@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<book xmlns:b="http://example.com/programming/test/book"> 
+<name>Design Patterns in Java(TM) (Software Patterns Series)</name> 
+<authors> 
+  <author>Steven John Metsker</author> 
+  <author>William C. Wake</author> 
+</authors> 
+<published-date>April 28, 2006</published-date>
+<Price>$42.84</Price>
+</book> 

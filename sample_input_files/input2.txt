@@ -1,0 +1,4 @@
+name: Java Design Patterns: A Tutorial 
+authors: James W. Cooper 
+published-date: February 13, 2000
+Price: $40.99

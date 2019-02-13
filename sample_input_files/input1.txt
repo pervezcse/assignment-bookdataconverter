@@ -1,0 +1,4 @@
+name: Head First Design Patterns
+authors: Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
+published-date: October 2004
+Publisher: O'Reilly Media

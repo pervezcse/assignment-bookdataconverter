@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns:b="http://example.com/programming/test/book">
+	<name>Hadoop: The Definitive Guide</name>
+	<authors>
+		<author>Tom White</author>
+	</authors>
+	<Publisher>OReilly Media</Publisher>
+	<Pages>680</Pages>
+	<ReleaseDate>October 2005</ReleaseDate>
+</book>
